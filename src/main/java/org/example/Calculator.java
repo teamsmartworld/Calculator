@@ -30,7 +30,7 @@ public class Calculator {
 
         operator = scan.nextInt();
 
-        //switching operations here
+        //switching operations indicated here
         switch(operator) {
             case 1:
                 answer = firstNumber + secondNumber;
